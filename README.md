@@ -1,1 +1,1 @@
-# Olympics-Analysis-upto-2016-Rio-
+# Olympics Analysis (upto 2016-Rio)
